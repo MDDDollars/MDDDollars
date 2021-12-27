@@ -3,7 +3,8 @@
 - 🌱 I’m currently learning 3d printing
 - 💞️ I’m looking to collaborate on 3d printing
 
-- 📫 How to reach me ...
+- 📫 How to reach me ...inlandempire15@gmail
+- 
 
 <!---
 MDDDollars/MDDDollars is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
